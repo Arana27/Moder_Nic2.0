@@ -1,0 +1,109 @@
+body{
+    font-family: 'Irish Grover', cursive;
+    background-image: url("../Imagenes/biblioteca.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+}
+
+
+.logo {
+    width: 100%;
+}
+
+.cont{
+    margin: 0 auto;
+    width: 800px;
+}
+
+button{
+    border-radius: 10px;
+    background-color: #4267B2;
+    color: white;
+    border: none;
+    height: 45px;
+    width: 320px;
+
+}
+
+
+button2{
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    color: #000000;
+    border: none;
+    height: 45px;
+    width: 320px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 45px;
+}
+
+.p{
+    font-family: 'Irish Grover', cursive;
+    text-align: center;
+    color: #ffffff;
+    font-size: 48px;
+}
+
+.imglogo{
+    width: 32px;
+}
+
+.a{
+    margin-top: 20px;
+    height: 60px;
+    width: 300px;
+    font-size: 30px;
+    line-height: 60px;
+}
+.Atras{
+    font-family: 'Irish Grover', cursive; 
+    display:flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.Categoria{
+    font-family: 'Irish Grover', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Amigos{
+    font-family: 'Irish Grover', cursive;
+
+}
+.Escritores{
+    font-family: 'Irish Grover', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Libros{
+    font-family: 'Irish Grover', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Poemas{
+    font-family: 'Irish Grover', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Cuentos{
+    font-family: 'Irish Grover', cursive;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
