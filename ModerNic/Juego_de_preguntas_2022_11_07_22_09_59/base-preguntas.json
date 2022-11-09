@@ -1,0 +1,187 @@
+[
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Cuàntos libros edito Rubèn Darìo?",
+        "respuesta": "18",
+        "incorrecta1": "14",
+        "incorrecta2": "3 Ángel",
+        "incorrecta3": "6",
+        "imagen": "https://www.biografiasyvidas.com/biografia/d/fotos/dario_4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Cuàndo fue publicado el libro Azul",
+        "respuesta": "1888",
+        "incorrecta1": "1916",
+        "incorrecta2": "1880",
+        "incorrecta3": "1890\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Dònde fue publicado Azul",
+        "respuesta": "Valparaiso-Chile",
+        "incorrecta1": "España",
+        "incorrecta2": "Nicaragua",
+        "incorrecta3": "Ciudad Darìo-Matagalpa\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "La cantidad de cuentos en prosas de el libro Azul son:",
+        "respuesta": "9",
+        "incorrecta1": "10",
+        "incorrecta2": "12",
+        "incorrecta3": "16\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "Azul es la:",
+        "respuesta": "Primera obra de Rubèn Darìo",
+        "incorrecta1": "Segunda obra de Rubèn Darìo",
+        "incorrecta2": "Tercera obra de Rubèn Darìo",
+        "incorrecta3": "Cuarta obra de Rubèn Darìo\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Cuántos poemas tiene el libro de prosas profanas?",
+        "respuesta": "38",
+        "incorrecta1": "33",
+        "incorrecta2": "35",
+        "incorrecta3": "30 \r",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Cuàl fue el primer nombre del libro prosas profanas?",
+        "respuesta": "Palabras liminares",
+        "incorrecta1": "El cisne",
+        "incorrecta2": "Modernic",
+        "incorrecta3": "Suspenso\r",
+        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Cuantos poemas tenia prosas profanas en su primera edicion?",
+        "respuesta": "33",
+        "incorrecta1": "38",
+        "incorrecta2": "27",
+        "incorrecta3": "25\r",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "¿Dònde fue publicado Prosas Profanas",
+        "respuesta": "Buenos Aires-Argentina",
+        "incorrecta1": "Chile",
+        "incorrecta2": "España",
+        "incorrecta3": "Nicaragua\r"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "En que año fue publicado el libro Cantos de Vida y Esperanza",
+        "respuesta": "1905",
+        "incorrecta1": "1916",
+        "incorrecta2": "1914",
+        "incorrecta3": "1910\r"
+    },
+    {
+        "categoria": "Libros",
+        "pregunta": "Cuando se publico la segunda edicion de Cantos de Vida Y Esperanza.",
+        "respuesta": "1907",
+        "incorrecta1": "1816",
+        "incorrecta2": "2004",
+        "incorrecta3": "2010\r"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "En que año nacio Ruben Dario",
+        "respuesta": "1867",
+        "incorrecta1": "1888",
+        "incorrecta2": "1850",
+        "incorrecta3": "1868\r",
+        "imagen": "https://i.ibb.co/vdTD5sF/el-tunel.jpg"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "Donde nacio Ruben Dario",
+        "respuesta": "Metapa",
+        "incorrecta1": "Masaya",
+        "incorrecta2": "Managua",
+        "incorrecta3": "Matagalpa\r",
+        "imagen": "https://i.ibb.co/gVQXD5q/mobi.jpg"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "   Año en que murio Ruben Dario",
+        "respuesta": "1916",
+        "incorrecta1": "1918",
+        "incorrecta2": "1920",
+        "incorrecta3": "1954\r"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": " Quien era Rosario Murillo en la vida de Ruben Dario",
+        "respuesta": "Su segunda esposa",
+        "incorrecta1": "Su primer esposa",
+        "incorrecta2": "Su mamà",
+        "incorrecta3": "Su madrina\r",
+        "imagen": "https://i.ibb.co/hDzmpKG/code-da-vinci.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "Quien era Rafaela Contreras en la vida de Ruben Dario",
+        "respuesta": "La primer esposa",
+        "incorrecta1": "La segunda esposa",
+        "incorrecta2": "La mamà",
+        "incorrecta3": "El amor prohibido de Dario\r",
+        "imagen": "https://i.ibb.co/qmrQJhM/27.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "Quien fue el amor prohibido de Ruben Dario.",
+        "respuesta": "Francisca Sanchez ",
+        "incorrecta1": "Rosario Murillo",
+        "incorrecta2": "Rafaela Contreras",
+        "incorrecta3": "Un Auto\r"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "Los padres de Ruben Dario eran:",
+        "respuesta": "Manuel Garcia Y Rosario Sarmiento",
+        "incorrecta1": "Augusto C Sandino y Ana",
+        "incorrecta2": "Andres Castro y Rosario Murillo",
+        "incorrecta3": "Salomon de la Selva y  Rafaela Herrera\r"
+    },
+    {
+        "categoria": "Escritores",
+        "pregunta": "Como se llamaba la hermana de Ruben Dario",
+        "respuesta": "Candida Rosa",
+        "incorrecta1": "Alejandra",
+        "incorrecta2": "Flora",
+        "incorrecta3": "Rebeca\r"
+    },
+    {
+        "categoria": "Cuentos",
+        "pregunta": "Cual es el primer cuento del Libro Azul",
+        "respuesta": "El Rey Burgues",
+        "incorrecta1": "El satiro sordo",
+        "incorrecta2": "Ninfas",
+        "incorrecta3": "Margarita de Bayle"
+    },
+    {
+        "categoria": "Cuentos",
+        "pregunta": "Cual es el ultimo cuento de el libro Azul ",
+        "respuesta": "Palomas blancas y garzas morenas",
+        "incorrecta1": "La Tempestad",
+        "incorrecta2": "El rey burgues",
+        "incorrecta3": "venus\r"
+    }
+]
